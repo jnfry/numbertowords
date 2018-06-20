@@ -1,0 +1,130 @@
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.exe
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.exe.config
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.rsp
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.exe
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.exe.config
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.rsp
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Console.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.exe
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.exe.config
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.rsp
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.dll.config
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.pdb
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\Newtonsoft.Json.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\Newtonsoft.Json.xml
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.xml
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.dll
+C:\Users\Fry\Documents\TechnologyOne\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.pdb
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.exe
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.exe.config
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csc.rsp
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.exe
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.exe.config
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\csi.rsp
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Console.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.exe
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.exe.config
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\vbc.rsp
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.dll.config
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\NumberToWordsApplication.pdb
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\Newtonsoft.Json.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\Newtonsoft.Json.xml
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.xml
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.dll
+C:\Users\Fry\Documents\TechnologyOne\TechnologyOne Code Task\NumberToWordsApplication\NumberToWordsApplication\obj\Debug\NumberToWordsApplication.pdb

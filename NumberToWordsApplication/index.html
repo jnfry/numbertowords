@@ -1,0 +1,73 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Number to Words</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <div class="container-fluid">
+        <h3>Number to Words</h3>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-xs-8">
+                <div class="input-group" id="numberToWordsForm">
+                    <span class="input-group-addon">$</span>
+                    <input type="text" id="txtInput" class="form-control" placeholder="Enter a number" aria-label="Enter a number">
+                    <span class="input-group-btn">
+                        <button id="wordifyButton" class="btn btn-default" type="button">Wordify</button>
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div id="numberToWordsResult" class="col-lg-4 col-md-6 col-xs-8">
+            </div>
+        </div>
+    </div>
+    
+    
+    <script>
+        var uri = "api/NumberToWords/GetWords?input=";
+
+        $(function () {
+            $("#wordifyButton").click(function (e) {
+                e.preventDefault();
+                
+                $.ajax({
+                    statusCode: {
+                        // Bad input. Show error and
+                        // make text box red.
+                        400: function (response) {
+                            $("#numberToWordsResult").text(
+                                JSON.parse(response.responseText));
+                            $("#numberToWordsForm").removeClass(
+                                "has-error has-success").addClass("has-error");
+                        },
+                    },
+                    dataType: "json",
+                    type: "GET",
+                    url: uri + $("#txtInput").val(),
+                    success: function (response) {
+                        // Good input. Show resulting words and make
+                        // text box green.
+                        $("#numberToWordsResult").html(response);
+                        $("#numberToWordsForm").removeClass(
+                            "has-error has-success").addClass("has-success");
+                    },
+
+                });
+            });
+
+            // Ensure enter activates the button when inside text box.
+            $("#txtInput").keydown(function (e) {
+                if (e.which == 13) {
+                    $("#wordifyButton").trigger("click");
+                }
+            });
+        });
+    </script>
+</body>
+</html>
